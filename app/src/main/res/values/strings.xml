@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wallpaper Switcher</string>
+
+    <string name="rationale_storage">In order to select images for wallpapers, we need permission
+        to access your local image folders first.</string>
+    <string name="error_no_permission">We are sorry but we cannot access your local storage without your permission.</string>
+
+</resources>
